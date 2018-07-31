@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">物流控股</string>
+    <string name="function_personal_info_title">个人信息</string>
+    <string name="function_password_change_title">修改密码</string>
+
+    <string name="index_error_dialog">登录失败或超时，请重新登录！</string>
+    <string name="update_now_version_loading">检查更新中...</string>
+    <string name="update_now_version_error">检查失败，请检查网络状态</string>
+    <string name="now_version_name_pre">当前版本：</string>
+    <string name="now_version_error_name">未知</string>
+    <string name="latest_version_name_pre">更新到新版本：</string>
+    <string name="copyright_date">Copyright © 2015</string>
+    <string name="copyright_author">连云港港口集团通信信息工程公司</string>
+    <string name="download_failed">文件下载失败</string>
+    <string name="navigation_drawer_open">打开</string>
+    <string name="navigation_drawer_close">关闭</string>
+
+    <string name="button_cancel">取消</string>
+    <string name="button_save">保存</string>
+
+    <string name="old_password_hint">请输入原密码</string>
+    <string name="new_password_hint">请输入新密码</string>
+    <string name="reenter_password_hint">请再输入新密码</string>
+    <string name="password_change_button_title">确认修改</string>
+    <string name="password_change_loading">正在执行请求...</string>
+    <string name="password_change_different">两次密码输入不一致</string>
+    <string name="password_change_no_old_password">请输入原密码</string>
+    <string name="password_change_no_new_password">请输入新密码</string>
+    <string name="password_change_no_reenter_password">请再次输入新密码</string>
+    <string name="password_change_same">原密码与新密码相同</string>
+
+    <string name="personal_info_phone">电话：</string>
+    <string name="personal_info_mobile">手机：</string>
+    <string name="personal_info_email">邮箱：</string>
+    <string name="personal_info_phone_error">请输入正确的电话号码</string>
+    <string name="personal_info_mobile_error">请输入正确的手机号码</string>
+    <string name="personal_info_email_error">请输入正确的邮箱地址</string>
+    <string name="personal_info_loading">正在加载个人信息</string>
+    <string name="personal_info_change_loading">正在保存设置</string>
+    <string name="personal_info_change_success">保存成功</string>
+    <string name="personal_info_change_failed">保存失败</string>
+    <string name="function_load_error">加载功能失败，请重试</string>
+
+</resources>

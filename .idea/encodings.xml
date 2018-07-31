@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/MobileLibrary/src/main/java/org/mobile/common/function/CheckNetwork.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MobileLibrary/src/main/java/org/mobile/common/function/DownLoadTask.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MobileLibrary/src/main/java/org/mobile/common/function/SendFile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MobileLibrary/src/main/java/org/mobile/model/activity/BaseLoginActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MobileLibrary/src/main/java/org/mobile/model/data/implement/LoginData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MobileLibrary/src/main/java/org/mobile/model/work/implement/CheckLogin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MobileLibrary/src/main/java/org/mobile/util/ApplicationAttribute.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MobileLibrary/src/main/java/org/mobile/util/ConfigUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MobileLibrary/src/main/java/org/mobile/util/LoginStatus.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/port/logistics/holdings/activity/LoginActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/port/logistics/holdings/fragment/NavigationDrawerFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/port/logistics/holdings/util/StaticValue.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="navigation_drawer_menu_function_list">
+        <item>全部功能</item>
+        <item>修改密码</item>
+        <item>个人信息</item>
+        <item>重新登录</item>
+        <item>检查更新</item>
+        <item>退出</item>
+    </string-array>
+
+    <string-array name="grid_item_function_name_list">
+        <item>功能1</item>
+        <item>功能2</item>
+        <item>功能3</item>
+        <item>功能4</item>
+        <item>功能5</item>
+        <item>功能6</item>
+        <item>功能7</item>
+        <item>功能8</item>
+        <item>功能9</item>
+        <item>分析1</item>
+        <item>分析2</item>
+        <item>分析3</item>
+        <item>分析4</item>
+        <item>分析5</item>
+        <item>分析6</item>
+        <item>分析7</item>
+        <item>分析8</item>
+        <item>分析9</item>
+        <item>分析10</item>
+    </string-array>
+
+    <string-array name="grid_item_function_code_list">
+        <item>MF0001</item>
+        <item>MF0002</item>
+        <item>MF0003</item>
+        <item>MF0004</item>
+        <item>MF0005</item>
+        <item>MF0006</item>
+        <item>MF0007</item>
+        <item>MF0008</item>
+        <item>MF0009</item>
+        <item>CA0001</item>
+        <item>CA0002</item>
+        <item>CA0003</item>
+        <item>CA0004</item>
+        <item>CA0005</item>
+        <item>CA0006</item>
+        <item>CA0007</item>
+        <item>CA0008</item>
+        <item>CA0009</item>
+        <item>CA0010</item>
+    </string-array>
+
+    <array name="grid_item_function_image_list">
+        <item>@drawable/head_icon</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@drawable/head_icon</item>
+        <item>@drawable/head_icon</item>
+        <item>@drawable/head_icon</item>
+        <item>@drawable/head_icon</item>
+        <item>@drawable/head_icon</item>
+        <item>@drawable/head_icon</item>
+        <item>@drawable/head_icon</item>
+        <item>@drawable/head_icon</item>
+        <item>@drawable/head_icon</item>
+        <item>@drawable/head_icon</item>
+    </array>
+
+</resources>
